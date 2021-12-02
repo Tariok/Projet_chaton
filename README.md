@@ -27,14 +27,17 @@ La boutique sera simple : un visiteur est accueilli sur le site, par un index de
 
 # Information
 
-* Visiteur :      - login / signup
+* Visiteur :     ####
+                  - login / signup
                   - peux parcourir les produits
                   - peux aller sur la page d'un produit
                   - ne peux pas ajouter un produit à son panier
                   - ne peux pas voir le panier de quiconque
                   - ne peux pas faire de checkout
+                ####
 
-* Utilisateur :   - page de profil pour voir les commandes passées
+* Utilisateur : ####
+                  - page de profil pour voir les commandes passées
                   - peux passer une commande
                   - peux faire tout ce que les visiteurs peuvent faire
                   - peux ajouter des produits à mon panier
@@ -42,7 +45,10 @@ La boutique sera simple : un visiteur est accueilli sur le site, par un index de
                   - peux modifier mes informations de base
                   - ne peux pas voir le panier des autres utilisateurs
                   - reçois un mail lors d'une commande
+                ####
 
-* Administateur : - reçois un mail lors d'une commande d'un utilisateur
+* Administateur : ####
+                  - reçois un mail lors d'une commande d'un utilisateur
+                  ####
 
     
