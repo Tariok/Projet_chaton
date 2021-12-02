@@ -27,13 +27,16 @@ La boutique sera simple : un visiteur est accueilli sur le site, par un index de
 
 # Information
 
-* Visiteur :      `* Une sous-puce`
-                  `* login / signup`
-                  `* peux parcourir les produits`
-                  `* peux aller sur la page d'un produit`
-                  `* ne peux pas ajouter un produit à son panier`
-                  `* ne peux pas voir le panier de quiconque`
-                  `* ne peux pas faire de checkout`
+* Visiteur :      
+<ul>
+                  <li>`* Une sous-puce`</li>
+                  <li>`* login / signup`</li>
+                  <li>`* peux parcourir les produits`</li>
+                  <li>`* peux aller sur la page d'un produit`</li>
+                  <li>`* ne peux pas ajouter un produit à son panier`</li>
+                  <li>`* ne peux pas voir le panier de quiconque`</li>
+                  <li>`* ne peux pas faire de checkout`</li>
+</ul>
 
 * Utilisateur : 
                   `* page de profil pour voir les commandes passées`
