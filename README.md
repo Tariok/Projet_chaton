@@ -28,25 +28,28 @@ La boutique sera simple : un visiteur est accueilli sur le site, par un index de
 # Information
 
 * Visiteur :      
-<ul>
-                  <li>`* Une sous-puce`</li>
-                  <li>`* login / signup`</li>
-                  <li>`* peux parcourir les produits`</li>
-                  <li>`* peux aller sur la page d'un produit`</li>
-                  <li>`* ne peux pas ajouter un produit à son panier`</li>
-                  <li>`* ne peux pas voir le panier de quiconque`</li>
-                  <li>`* ne peux pas faire de checkout`</li>
-</ul>
+<ol>
+                  <li>login / signup</li>
+                  <li>peux parcourir les produits</li>
+                  <li>peux aller sur la page d'un produit</li>
+                  <li>ne peux pas ajouter un produit à son panier</li>
+                  <li>ne peux pas voir le panier de quiconque</li>
+                  <li>ne peux pas faire de checkout</li>
+</ol>
 
 * Utilisateur : 
-                  `* page de profil pour voir les commandes passées`
-                  `* peux passer une commande`
-                  `* peux faire tout ce que les visiteurs peuvent faire`
-                  `* peux ajouter des produits à mon panier`
-                  `* peux voir mon panier actuel et le modifier`
-                  `* peux modifier mes informations de base`
-                  `* ne peux pas voir le panier des autres utilisateurs`
-                  `* reçois un mail lors d'une commande`
+<ol>
+                  <li>page de profil pour voir les commandes passées</li>
+                  <li>peux passer une commande</li>
+                  <li>peux faire tout ce que les visiteurs peuvent faire</li>
+                  <li>peux ajouter des produits à mon panier</li>
+                  <li>peux voir mon panier actuel et le modifier</li>
+                  <li>peux modifier mes informations de base</li>
+                  <li>ne peux pas voir le panier des autres utilisateurs</li>
+                  <li>reçois un mail lors d'une commande</li>
+</ol>
 
 * Administateur : 
-                  `* reçois un mail lors d'une commande d'un utilisateur`
+<ol>
+                  <li>reçois un mail lors d'une commande d'un utilisateur</li>
+</ol>
